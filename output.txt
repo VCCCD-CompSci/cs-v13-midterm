@@ -1,0 +1,25 @@
+The area of the vertical rectangle is: 50
+The perimeter of the vertical rectangle is: 100
+The area of the horizontal rectangle is: 72
+The perimeter of the horizontal rectangle is: 144
+
+* * * * * 
+*       *
+*       *
+*       *
+*       *
+*       *
+*       *
+*       *
+*       *
+* * * * * 
+* * * * * * * * * * * * 
+*                     *
+*                     *
+*                     *
+*                     *
+* * * * * * * * * * * * 
+
+The total area is: 122
+The total perimeter is: 244
+
